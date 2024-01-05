@@ -11,3 +11,4 @@ Here is a list of links to Colab notebooks.
 
 3-rd chapter - https://colab.research.google.com/drive/1C5p8_HbQnBsFtpHvVOFZMUSkGpSSX5R8?usp=drive_link
 
+4-th chapter - https://colab.research.google.com/drive/1G-nXtPGI2LMNDTzQyQ0E6Drt5PB2vJI9?usp=drive_link
